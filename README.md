@@ -1,1 +1,2 @@
-# M-thode-Spectrale-Robuste
+# Méthode-Spectrale-Robuste
+#Motivation : 
